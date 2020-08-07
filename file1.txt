@@ -3,3 +3,5 @@ learning Git and trying to pratice some code
 all the best to me !!!
 
 adding line in github to clone in Git repository!!1 
+
+adding line to check pull command 
